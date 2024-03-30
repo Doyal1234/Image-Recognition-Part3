@@ -1,0 +1,22 @@
+body{
+background-color:rgb(255, 185, 54);
+color: #722BB3;
+}
+#Img{
+width: 150px;
+border-radius: 100px;
+}
+.name_of_objects{
+font-family:cursive;
+font-size: 22px;
+}
+#camera{
+border:2px dotted rgb(0, 153, 255);
+width: 350px;
+height: 300px;
+}
+#result{
+    border:2px dotted rgb(255, 0, 115);
+    width: 350px;
+    height: 300px;
+    }
